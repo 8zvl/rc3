@@ -1,6 +1,5 @@
-# rc3
+# RC3
 a_new_toy building brick
 
-## concept
-trying to invent a new agent for game that have much room to improve in the future
-gear-like but not reinventing the wheel
+## Concept
+trying to invent a new agent for game that have much room to improve in the future but not reinventing the wheel
